@@ -24,6 +24,6 @@ I'm Zachary Waynor, I recently graduated with a Masters from Rutgers University 
 - Enamble Learning
 - Explainable Ai
 - 3D Reconstruction
-- Search Engine Optimization
+
 
 
